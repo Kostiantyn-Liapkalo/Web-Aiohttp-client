@@ -8,8 +8,7 @@ Work example:
 
 ```bash
 $ py ./main.py 2
-```
-```bash
+
 Program result:
 
 
