@@ -2,36 +2,38 @@
 
 The utility returns the EUR and USD rate of PrivatBank for the last few days.
 
+----------------------------------------------------------------------------------------------------------
+
 Work example:
 
 py .\main.py 2
 
 Program result:
 
-[
-  {
-    '03.11.2022': {
-      'EUR': {
-        'sale': 39.4,
-        'purchase': 38.4
-      },
-      'USD': {
-        'sale': 39.9,
-        'purchase': 39.4
-      }
-    }
-  },
-  {
-    '02.11.2022': {
-      'EUR': {
-        'sale': 39.4,
-        'purchase': 38.4
-      },
-      'USD': {
-        'sale': 39.9,
-        'purchase': 39.4
-      }
-    }
-  }
-]
+[/n
+  {/n
+    '03.11.2022': {/n
+      'EUR': {/n
+        'sale': 39.4,/n
+        'purchase': 38.4/n
+      },/n
+      'USD': {/n
+        'sale': 39.9,/n
+        'purchase': 39.4/n
+      }/n
+    }/n
+  },/n
+  {/n
+    '02.11.2022': {/n
+      'EUR': {/n
+        'sale': 39.4,/n
+        'purchase': 38.4/n
+      },/n
+      'USD': {/n
+        'sale': 39.9,/n
+        'purchase': 39.4/n
+      }/n
+    }/n
+  }/n
+]/n
 
