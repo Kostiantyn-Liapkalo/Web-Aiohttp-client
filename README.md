@@ -10,11 +10,11 @@ Work example:
 
 Program result:
 
-[
-  {
-    '03.11.2022': {
-      'EUR': {
-        'sale': 39.4,
+[\n
+  {\n
+    '03.11.2022': {\n
+      'EUR': {\n
+        'sale': 39.4,\n
         'purchase': 38.4
       },
       'USD': {
