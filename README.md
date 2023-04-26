@@ -4,13 +4,12 @@ The utility returns the EUR and USD rate of PrivatBank for the last few days.
 
 ----------------------------------------------------------------------------------------------------------
 
-Work example:
+##Work example:
 
 
 $ py ./main.py 2
 
-```bash
-Program result:
+##Program result:
 
 
 [
@@ -64,4 +63,4 @@ Program result:
   }
 
 ]
-```
+
