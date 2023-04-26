@@ -6,9 +6,9 @@
 
 ## Work example:
 
-
+```bash
 $ py ./main.py 2
-
+```
 ## Program result:
 
 
