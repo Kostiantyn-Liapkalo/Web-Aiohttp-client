@@ -66,7 +66,7 @@ class Server:
                 await self.send_to_clients(exc)
             elif message == 'Hi Server':
                 await self.send_to_clients(f"{ws.name}: {message}")
-                await self.send_to_clients('Привіт мої любі!')
+                await self.send_to_clients('Hi to all!')
             else:
                 await self.send_to_clients(f"{ws.name}: {message}")
 
